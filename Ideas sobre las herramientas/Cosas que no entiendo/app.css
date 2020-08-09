@@ -1,0 +1,112 @@
+@font-face {
+  font-family: "GroteskRemix";
+  src: url("../No hagas clic aquí/GroteskRemix-Medium.otf");
+}
+
+body {
+  font-family: "GroteskRemix", serif;
+  font-size: 0.75rem;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+canvas {
+  position: absolute;
+}
+
+#overlay {
+  position: absolute;
+  z-index: 2;
+}
+
+#text {
+  padding: 3rem 1rem 0 1rem;
+}
+
+#title {
+  text-align: center;
+  padding-bottom: 2rem;
+  font-size: 1rem;
+}
+
+.card {
+  display: table;
+  margin-bottom: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fluid-img {
+  width: 100%;
+  max-width: 300px;
+  height: 400px;
+}
+
+img {
+  border: 1px solid black;
+  padding: 0.25rem 0;
+  width: 300px;
+  height: 400px;
+
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+p {
+  padding-bottom: 0.5rem;
+}
+
+.link {
+  text-align: left;
+}
+
+.link-1 {
+  color: brown;
+}
+
+.link-2 {
+  color: pink;
+}
+
+.link-3 {
+  color: green;
+}
+
+.link-4 {
+  color: blue;
+}
+
+.link-5 {
+  color: orange;
+}
+
+.link-6 {
+  color: brown;
+}
+
+.link-7 {
+  color: black;
+}
+
+.link-8 {
+  color: pink;
+}
+
+.link-9 {
+  color: blue;
+}
+
+.link-10 {
+  color: green;
+}
+
+.link-11 {
+  color: black;
+}
+
+.link-12 {
+  color: brown;
+}
